@@ -1,0 +1,30 @@
+.header {
+    padding: 1rem 1rem; /*första värdet:Uppe och nere, andra värdet: höger och vänster, 1rem=16px.*/
+    background: lightcoral;
+}
+
+/*utility classes*/
+.m0 {
+    margin: 0;
+}
+
+.px1 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.align-center {
+    align-items: center;
+}
